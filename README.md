@@ -80,12 +80,14 @@ This document will state the functional and non-functional requirements of VR-ri
 ## Limitation
 
 
+
+
 If something is not behaving intuitively, it is a bug and should be reported.
 Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
 
 Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
 
-## Patches and pull requests
+## Feedbacks
 
 Your patches are welcome. Here's our suggested workflow:
  
