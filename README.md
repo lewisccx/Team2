@@ -73,6 +73,12 @@ This document will state the functional and non-functional requirements of VR-ri
 
 
 ## Errors and bugs
+   1. If player is riding with the phone tilted up, he may ride out of the map
+   2. Player is not facing the quiz question when he change scene
+   3. Traffic lights are being switch on/off at random order
+   4. Player's screen camera and his bicyle is able tilt up/down 90 degree 
+## Limitation
+
 
 If something is not behaving intuitively, it is a bug and should be reported.
 Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
