@@ -30,8 +30,16 @@ This document will state the functional and non-functional requirements of VR-ri
 
 ## User Manual
 ### Admin Manual
-1. Select "SCTF Admin" option
-2. __underscores__
+1. Select "SCTF Admin" option/n
+   *To set game setting*
+   i.  select "Game Setting"
+   ii. select "Game Level" (1 - 5)
+   iii.select desired number of vehicles,pedestrian, traffic lights and environment
+   
+   *To view player analytics*
+    i. select "View Analytics"
+   
+   
 ### Player Manual
 
 *Give your users a sense of the workflow for using your project/tool.*
