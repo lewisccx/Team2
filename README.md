@@ -1,8 +1,8 @@
 # 2101Project
 VR Safe Riding Project
-Youtube Link: https://youtu.be/tC1cVljr4Yc
 
-<h1> Project title </h1>
+
+# VR Riding
 VR-riding is a virtual reality (VR) software application that allows cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. VR-riding also allows the users to have a free range of motion within the area and give them the feelings of immersion within the virtual environment, thus providing a pleasant and intuitive experience. Ultimately, the aim of VR-riding is to educate users on the safety aspect of commuting by cycling or with their PMD’s in Singapore. 
 
 This document will state the functional and non-functional requirements of VR-riding, as well as the expected interactions between VR-riding and the users of VR-riding. 
@@ -11,13 +11,19 @@ This document will state the functional and non-functional requirements of VR-ri
 
 ### Dependencies
 
-*Provide links and descriptions for the third-party libraries you're having your users install.*
+*GoogleVR*
+*Android API level 19 and Above*
+*Gradle*
 
 ### Installation
+#### Windows
 
-* Mac OS X
-* Ubuntu
-* Windows (if applicable)
+1. Download Unity Hub and run 
+2. Install Unity3D from Unity Hub
+3. Run Unity Hub > Open > Located and select “VRsafeRiding” folder
+
+#### Android
+1. Install VRsafeRiding_1.0.apk file 
 
 ### Getting started
 
@@ -32,7 +38,7 @@ This document will state the functional and non-functional requirements of VR-ri
 
 ## Demo
 
-*Grab a simple block of code that makes use of your project/tool and paste it here.*
+*Youtube Link: https://youtu.be/tC1cVljr4Yc*
 
 ## Team
 
