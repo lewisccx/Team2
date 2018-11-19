@@ -30,7 +30,7 @@ This document will state the functional and non-functional requirements of VR-ri
 
 ## User Manual
 ### Admin Manual
-#### 1. Select "SCTF Admin" option
+1. Select "SCTF Admin" option
 
    **To set game setting**
    
@@ -43,13 +43,20 @@ This document will state the functional and non-functional requirements of VR-ri
    **To view player analytics**
    
    i. select "View Analytics"
-   
-   
+      
 ### Player Manual
 
-*Give your users a sense of the workflow for using your project/tool.*
-*For a website this might include code for running locally.*
-*For an API this might include method and parameter specs.*
+1. Select "Player" option
+2. Select "Level" option
+3. Select "Vehicle" option
+4. Select "Play" option
+   
+   *Game Rules*
+   1. Answer all 8 quiz questions in the game, they are located all over the map
+   2. Avoid hitting pedestrians as well as hitting by AI vehicle and pedestrian 
+      in the game
+
+
 
 ## Demo
 
