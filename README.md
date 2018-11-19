@@ -8,7 +8,6 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 This document will state the functional and non-functional requirements of VR-riding, as well as the expected interactions between VR-riding and the users of VR-riding. 
 
 ## Setup 
-
 ### Dependencies
 
 *GoogleVR*
@@ -17,7 +16,6 @@ This document will state the functional and non-functional requirements of VR-ri
 
 ### Installation
 #### Windows
-
 1. Download Unity Hub and run 
 2. Install Unity3D from Unity Hub
 3. Run Unity Hub > Open > Located and select “VRsafeRiding” folder
@@ -30,7 +28,11 @@ This document will state the functional and non-functional requirements of VR-ri
 *What does your user need to know to get everything ready after installation?*
 *Think about databases, config files, and settings.*
 
-## Usage
+## User Manual
+### Admin Manual
+1. Select "SCTF Admin" option
+2. __underscores__
+### Player Manual
 
 *Give your users a sense of the workflow for using your project/tool.*
 *For a website this might include code for running locally.*
@@ -40,11 +42,15 @@ This document will state the functional and non-functional requirements of VR-ri
 
 *Youtube Link: https://youtu.be/tC1cVljr4Yc*
 
-## Team
+## Contributors
 
-* *Name, Organization - role or tasks worked on*
+* *Cao Chenxing - *
+* *Han Yu Fong Joseph - *
+* *Jeremy Tan Teng Tat - *
+* *Lim Jia Hui Alissa - *
+* *Lim Yoong Jin - *
+* *Ng ZhiYuan - *
 
-*Add a "contributors" section if you've incorporated pull requests.*
 
 ## Errors and bugs
 
