@@ -10,13 +10,13 @@ This document will state the functional and non-functional requirements of VR-ri
 ## Setup 
 
 ### Project URL
-[Project Link: Google Drive](https://drive.google.com/open?id=1HVzAYGdR2tUlPMDpsFwt39b-0ySC7_s4)
+* [Project Link: Google Drive](https://drive.google.com/open?id=1HVzAYGdR2tUlPMDpsFwt39b-0ySC7_s4)
 
 ### Dependencies
 
-*GoogleVR*
-*Android API level 19 and Above*
-*Gradle*
+* *GoogleVR*
+* *Android API level 19 and Above*
+* *Gradle*
 
 ### Installation
 #### Windows
@@ -29,36 +29,27 @@ This document will state the functional and non-functional requirements of VR-ri
 
 ## User Manual
 ### Admin Manual
-1. Select "SCTF Admin" option
-
-   **To set game setting**
-   
-   i.  select "Game Setting"
-   
-   ii. select "Game Level" (1 - 5)
-   
-   iii.select desired number of vehicles,pedestrian, traffic lights and environment
-   
-   **To view player analytics**
-   
-   i. select "View Analytics"
-      
+*   Select "SCTF Admin" option
+	* To view player analytics 
+       1. select "View Analytics"
+	* To set game setting 
+      1. select "Game Setting"
+      2. select "Game Level" (1 - 5)
+      3. select desired number of vehicles,pedestrian, traffic lights and environment
+  
 ### Player Manual
-
 1. Select "Player" option
 2. Select "Level" option
 3. Select "Vehicle" option
 4. Select "Play" option
-   
-   *Game Rules*
-   1. Answer all 8 quiz questions in the game, they are located all over the map
-   2. Avoid hitting pedestrians as well as hitting by AI vehicle and pedestrian 
-      in the game
-
-
+ 
+### Game Rules
+ 1. Answer all 8 quiz questions in the game, they are located all over the map
+ 2. Avoid hitting pedestrians as well as hitting by AI vehicle and pedestrian 
+    in the game
 
 ## Demo
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tC1cVljr4Yc/0.jpg)](https://www.youtube.com/watch?v=tC1cVljr4Yc)  
 *Youtube Link: https://youtu.be/tC1cVljr4Yc*
 
 ## Contributors
