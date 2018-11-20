@@ -8,6 +8,10 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 This document will state the functional and non-functional requirements of VR-riding, as well as the expected interactions between VR-riding and the users of VR-riding. 
 
 ## Setup 
+
+### Project URL
+[Project Link: Google Drive](https://drive.google.com/open?id=1HVzAYGdR2tUlPMDpsFwt39b-0ySC7_s4)
+
 ### Dependencies
 
 *GoogleVR*
@@ -22,11 +26,6 @@ This document will state the functional and non-functional requirements of VR-ri
 
 #### Android
 1. Install VRsafeRiding_1.0.apk file 
-
-### Getting started
-
-*What does your user need to know to get everything ready after installation?*
-*Think about databases, config files, and settings.*
 
 ## User Manual
 ### Admin Manual
