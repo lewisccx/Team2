@@ -12,9 +12,8 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 
 ### Dependencies
 
-* *GoogleVR*
-* *Android API level 19 and Above*
-* *Gradle*
+* [*GoogleVR*](https://github.com/googlevr/gvr-unity-sdk) - For character control & Event trigger
+* [*Android API level 19 and Above*](https://developer.android.com/studio/) - Android SDK
 
 ### Installation
 #### Windows
@@ -40,7 +39,11 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 2. Select "Level" option
 3. Select "Vehicle" option
 4. Select "Play" option
- 
+
+### Development Manual
+1. All the elements displayed (included vehicle, buildings, pedestrian and etc) in the game are located in the “VRsafeRiding ” > “Assets” folder
+2. All the backend c# scripts are located in the “VRsafeRiding ” > “Assets” > “Scripts” folder
+
 ### Game Rules
  1. Answer all 8 quiz questions in the game, they are located all over the map
  2. Avoid hitting pedestrians as well as hitting by vehicle and pedestrian 
@@ -58,8 +61,8 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 * *Han Yu Fong Joseph - Scene Change logic *
 * *Jeremy Tan Teng Tat - Game Menu Logic *
 * *Lim Jia Hui Alissa - Save User State logic *
-* *Lim Yoong Jin - Map Design *
-* *Ng ZhiYuan - Map Design *
+* *Lim Yoong Jin - Night Mode Logic *
+* *Ng ZhiYuan - Traffic Light Login *
 
 
 ## Errors and bugs
@@ -72,9 +75,11 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
    7. There is a "delay" time when change between scenes.
    8. When user has changed to quiz scene, the game scene is not on pause state.
    
+   
 ## Limitation
    1. There is no traffic rule implemented in the game
    2. VR-riding currently only supports android mobile
+   3. Player's Phone has to be in left screen orientation 
 
 ## Feedbacks
    1. Implement a score system to allow player knows his statistics
