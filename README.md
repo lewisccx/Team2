@@ -91,4 +91,4 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 
 ## Copyright and attribution
 
-Copyright (c) 2018 2101Team2Made. Released under the [MIT License](https://github.com/lewisccx/Team2/blob/master/LICENSE.MD).
+Copyright (c) 2018 2101Team2. Released under the [MIT License](https://github.com/lewisccx/Team2/blob/master/LICENSE.MD).
