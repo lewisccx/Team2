@@ -71,7 +71,7 @@ This section describes the core functionalities of VR-Riding and what it must be
 3. Select "Vehicle" option
 4. Select "Play" option
 
-### Development Manual
+### Developer Manual
 1. All the elements displayed (included vehicle, buildings, pedestrian and etc) in the game are located in the “VRsafeRiding ” > “Assets” folder
 2. All the backend c# scripts are located in the “VRsafeRiding ” > “Assets” > “Scripts” folder
 
