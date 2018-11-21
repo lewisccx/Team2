@@ -12,7 +12,7 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 
 ### Dependencies
 
-* [*GoogleVR*](https://github.com/googlevr/gvr-unity-sdk) - For character control & Event trigger
+* [*GoogleVR*](https://github.com/googlevr/gvr-unity-sdk) - For character control, event control & trigger
 * [*Android API level 19 and Above*](https://developer.android.com/studio/) - Android SDK
 
 ### Installation
