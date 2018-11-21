@@ -20,6 +20,7 @@ VR-riding is a virtual reality (VR) software application that allows cyclists an
 1. Download Unity Hub and run 
 2. Install Unity3D from Unity Hub
 3. Run Unity Hub > Open > Located and select “VRsafeRiding” folder
+4. Click on "Play" button in Unity3D
 
 #### Android
 1. Install VRsafeRiding_1.0.apk file 
