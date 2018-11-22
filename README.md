@@ -89,11 +89,11 @@ This section describes the core functionalities of VR-Riding and what it must be
 ## Contributors
 
 *  _Cao Chenxing - Quiz logic_
-*  *Han Yu Fong Joseph - Scene Change logic *
-*  *Jeremy Tan Teng Tat - Game Menu Logic *
-*  *Lim Jia Hui Alissa - Save User State logic *
-*  *Lim Yoong Jin - Night Mode Logic *
-*  *Ng ZhiYuan - Traffic Light Logic *
+*  _Han Yu Fong Joseph - Scene Change logic_
+*  _Jeremy Tan Teng Tat - Game Menu Logic_
+*  _Lim Jia Hui Alissa - Save User State logic_
+*  _Lim Yoong Jin - Night Mode Logic_
+*  _Ng ZhiYuan - Traffic Light Logic_
 
 
 ## Errors and bugs
