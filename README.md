@@ -121,10 +121,10 @@ This section describes the core functionalities of VR-Riding and what it must be
 
 ## Frequently Asked Questions (FAQ) 
 
-Q: What platform is supported?
+Q: What platforms are supported?
 
-```
-A: Android KitKat above and Windows
+``` 
+A: Devices running Android KitKat and above, and Windows with UnityHub installed
 
 ```
 Q: How does a player start the game?
@@ -132,6 +132,11 @@ Q: How does a player start the game?
 A: Please refer here: https://github.com/lewisccx/Team2/blob/master/README.md#player-manual
 ```
 
+```
+Q: I have a new bug to report. Who do I contact?
+```
+A: Please contact the development team either via by commenting below, or contact the team at 
+```
 
 ## Copyright and attribution
 
