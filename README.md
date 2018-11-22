@@ -93,26 +93,25 @@ This section describes the core functionalities of VR-Riding and what it must be
 *  _Jeremy Tan Teng Tat - Game Menu Logic_
 *  _Lim Jia Hui Alissa - Save User State logic_
 *  _Lim Yoong Jin - Night Mode Logic_
-*  _Ng ZhiYuan - Traffic Light Logic_
+*  _Ng Zhi Yuan - Traffic Light Logic_
 
 
 ## Errors and bugs
    1. If player is riding with the phone tilted up, he may ride out of the map
    2. Player is not facing the quiz question when he changes scene
-   3. Traffic lights are being switched on/off at random order
-   4. Player's screen camera and his bicyle is able tilt up/down 90 degree at the same time
-   5. Vehicles and pedestrian are travelling forward and backward without turning direction
-   6. Pedestrian is able to push player away whenever they hit each other.
-   7. There is a "delay" time when changing between scenes.
-   8. When user changed to quiz scene, the game scene is not at the pause state.
+   3. Player's screen camera and his bicyle is able tilt up/down 90 degree at the same time
+   4. Vehicles and pedestrian are travelling forward and backward without turning direction
+   5. Pedestrian is able to push player away whenever they hit each other.
+   6. There is a "delay" time when changing between scenes.
+   7. When user changed to quiz scene, the game scene is not at the pause state.
    
    
-## Limitation
-   1. There is no traffic rule implemented in the game
+## Limitations
+   1. There are no traffic rules implemented in the game, but you encouraged to adhere to them to score more points!
    2. VR-riding currently only supports android mobile
    3. Player's Phone has to be in left screen orientation 
 
-## Feedbacks
+## Feedback
    1. Implement a score system to allow player knows his statistics
    2. Implement a Health Point system 
       * Player lose a portion of his health whenever he hitted by vehicle and eventually lose the game if his health runs out
