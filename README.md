@@ -43,7 +43,7 @@ This section describes the core functionalities of VR-Riding and what it must be
 ### Dependencies
 
 * [*GoogleVR*](https://github.com/googlevr/gvr-unity-sdk) - For character control, event control & trigger
-* [*Android API level 19 and Above*](https://developer.android.com/studio/) - Android SDK
+* [*Android 4.4 (API level 19) and Above - KitKat and above*](https://developer.android.com/studio/) - Android SDK
 
 ### Installation
 #### Windows
@@ -77,7 +77,7 @@ This section describes the core functionalities of VR-Riding and what it must be
 2. All the backend C# scripts are located in the “VRsafeRiding ” > “Assets” > “Scripts” folder
 
 ### Game Rules
- 1. Answer all 8 quiz questions in the game which are located all over the map
+ 1. Answer all 10 quiz questions in the game which are located all over the map
  2. Avoid hitting pedestrians as well as getiing hit by vehicle and pedestrian 
     in the game
  3. Each question act as a checkpoint(save game progress) in the game 
@@ -124,7 +124,7 @@ This section describes the core functionalities of VR-Riding and what it must be
 Q: What platform is supported?
 
 ```
-A: Android APK Level 19 and above and Windows
+A: Android KitKat above and Windows
 
 ```
 Q: How does a player start the game?
