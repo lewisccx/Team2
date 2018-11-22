@@ -132,10 +132,9 @@ Q: How does a player start the game?
 A: Please refer here: https://github.com/lewisccx/Team2/blob/master/README.md#player-manual
 ```
 
-```
 Q: I have a new bug to report. Who do I contact?
 ```
-A: Please contact the development team either via by commenting below, or contact the team at 
+A: Please contact the development team at 1700208@sit.singaporetech.edu.sg.
 ```
 
 ## Copyright and attribution
