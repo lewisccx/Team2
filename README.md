@@ -137,6 +137,11 @@ Q: I have a new bug to report. Who do I contact?
 A: Please contact the development team at 1700208@sit.singaporetech.edu.sg.
 ```
 
+Q: Where can I find a thorough walkthrough of the game?
+```
+A: You are able to view a walkthrough video at https://www.youtube.com/watch?v=tC1cVljr4Yc
+```
+
 ## Copyright and attribution
 
 Copyright (c) 2018 2101Team2. Released under the [MIT License](https://github.com/lewisccx/Team2/blob/master/LICENSE.MD).
