@@ -124,7 +124,7 @@ This section describes the core functionalities of VR-Riding and what it must be
 Q: What platform is supported?
 
 ```
-A: Android API Level 19 and above and Windows
+A: Android APK Level 19 and above and Windows
 
 ```
 Q: How does a player start the game?
