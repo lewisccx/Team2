@@ -127,6 +127,11 @@ Q: What platform is supported?
 A: Android API Level 19 and above and Windows
 
 ```
+Q: How does a player start the game?
+```
+A: Please refer here: https://github.com/lewisccx/Team2/blob/master/README.md#player-manual
+```
+
 
 ## Copyright and attribution
 
