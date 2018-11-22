@@ -55,7 +55,8 @@ This section describes the core functionalities of VR-Riding and what it must be
 #### Android
 1. Install VRsafeRiding_1.0.apk file 
 
-## User Manual
+## Walkthrough
+
 ### Admin Manual
 *   Select "SCTF Admin" option
 	* To view player analytics 
@@ -117,6 +118,15 @@ This section describes the core functionalities of VR-Riding and what it must be
       * Player lose a portion of his health whenever he hitted by vehicle and eventually lose the game if his health runs out
    3. Implement Play-Time Limit system
       * If player unable to finish the game with time limit give, he loses the game
+
+## Frequently Asked Questions (FAQ) 
+
+Q: What platform is supported?
+
+```
+A: Android API Level 19 and above and Windows
+
+```
 
 ## Copyright and attribution
 
