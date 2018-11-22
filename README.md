@@ -6,24 +6,24 @@ VR Safe Riding Project
 VR-riding is a virtual reality (VR) software application that allows cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. VR-riding also allows the users to have a free range of motion within the area and give them the feelings of immersion within the virtual environment, thus providing a pleasant and intuitive experience. Ultimately, the aim of VR-riding is to educate users on the safety aspect of commuting by cycling or with their PMD’s in Singapore.
 
 ## VR Riding Functional Requirements
-This section describes the core functionalities of VR-Riding and what it must be able to performand deliver. After gathering requirements from the client, it is agreed that VR-Riding shall be able to:
+This section describes the core functionalities of VR-Riding and what it must be able to perform and deliver. After gathering requirements from the client, it is agreed that VR-Riding shall be able to:
 1. Display instructions and descriptions in common languages.
 2. Validate users based on authority, namely the Player and SCTF Admin roles.
-3. Educate Players on the appropriate thing to do when commuting using bicycles or PMDs.
+3. Educate Players on the appropriate actions to do when commuting using bicycles or PMDs.
 4. Work across most VR devices.
-5. Display virtual environment as close as to real environment, such as Singapore roads and Park Connector Networks (PCN).
-6. Allow SCTF Adminsto edit thevirtual environment, such aschanging:othe average number of vehicles on the roadothe average number of 	    pedestrians on thestreetothe background environment
-7. Provide the users the correct safety information when they do dangerous actions in the game.
+5. Display virtual environment as close to real environment, such as Singapore roads and Park Connector Networks (PCN) as possible.
+6. Allow SCTF Adminstor to edit the virtual environment, such as changing the average number of vehicles on the road, the average number of pedestrians on the street and the background environment.
+7. Provide users the correct safety information when they do dangerous actions in the game.
 8. Provide 5 different 10-minute-long levels of simulated riding in the virtual environment. 
-    The information of the levels is:
-	1. In each level, users are by default travelling forward and can choose to stop by pressing the brakebutton(e.g. to stop during 	    red light.). 
+    The information of the levels are:
+	1. In each level, users are by default travelling forward and can choose to stop by pressing the brake button(e.g. to stop 		during red light.). 
 	2. In levels 4 and 5, users can also choose to turn left and right to avoid pedestrians.
-	3. Questionspertaining to safe ridingwill also be displayed to the users throughout in the game.
-	4. Level 1: Players are only allowed to travel forwardand thereare only traffic lightsin the game.
-	5. Level 2: Players are only allowed to travel forward and there are carsand traffic lights in the game.
-	6. Level 3: Players are only allowed to travel forward and there are cars, zebra crossingsand traffic lights in the game.
-	7. Level 4: Players cantravel forward andmake left and right turns. There are cars, zebra crossings,pedestrians and traffic 	            lights in the game.
-	8. Level 5: Players will be placed in a night version of the gameand they can travel forward and make left and right turns. 	            Thereare cars, zebra crossings, pedestrians and traffic lights in the game.
+	3. Questions pertaining to safe riding will also be displayed to the users throughout the game.
+	4. Level 1: Players are only allowed to travel forward and there are only traffic lights in the game.
+	5. Level 2: Players are only allowed to travel forward and there are cars and traffic lights in the game.
+	6. Level 3: Players are only allowed to travel forward and there are cars, zebra crossings and traffic lights in the game.
+	7. Level 4: Players can travel forward and make left and right turns. There are cars, zebra crossings,pedestrians and traffic 	            lights in the game.
+	8. Level 5: Players will be placed in a night version of the game and they can travel forward and make left and right turns. 	            There are cars, zebra crossings, pedestrians and traffic lights in the game.
 9. Provide analytical data on the performance of the Player (e.g. Player tend to ride on right side of the road)
 
 ## VR Riding Non-Functional Requirements
@@ -67,20 +67,20 @@ This section describes the core functionalities of VR-Riding and what it must be
   
 ### Player Manual
 1. Select "Player" option
-2. Select "Level" option
+2. Select "Level" option (1-5)
 3. Select "Vehicle" option
 4. Select "Play" option
 
 ### Developer Manual
 1. All the elements displayed (included vehicle, buildings, pedestrian and etc) in the game are located in the “VRsafeRiding ” > “Assets” folder
-2. All the backend c# scripts are located in the “VRsafeRiding ” > “Assets” > “Scripts” folder
+2. All the backend C# scripts are located in the “VRsafeRiding ” > “Assets” > “Scripts” folder
 
 ### Game Rules
- 1. Answer all 8 quiz questions in the game, they are located all over the map
- 2. Avoid hitting pedestrians as well as hitting by vehicle and pedestrian 
+ 1. Answer all 8 quiz questions in the game which are located all over the map
+ 2. Avoid hitting pedestrians as well as getiing hit by vehicle and pedestrian 
     in the game
  3. Each question act as a checkpoint(save game progress) in the game 
- 4. To restart the game, click on the restart menu located the start of the map .
+ 4. To restart the game, click on the restart menu located the at the start of the map .
 
 ## Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tC1cVljr4Yc/0.jpg)](https://www.youtube.com/watch?v=tC1cVljr4Yc)  
@@ -98,13 +98,13 @@ This section describes the core functionalities of VR-Riding and what it must be
 
 ## Errors and bugs
    1. If player is riding with the phone tilted up, he may ride out of the map
-   2. Player is not facing the quiz question when he change scene
-   3. Traffic lights are being switch on/off at random order
+   2. Player is not facing the quiz question when he changes scene
+   3. Traffic lights are being switched on/off at random order
    4. Player's screen camera and his bicyle is able tilt up/down 90 degree at the same time
-   5. Vehicles and pedestrian are travel forward and backward without turning its direction
+   5. Vehicles and pedestrian are travelling forward and backward without turning direction
    6. Pedestrian is able to push player away whenever they hit each other.
-   7. There is a "delay" time when change between scenes.
-   8. When user has changed to quiz scene, the game scene is not on pause state.
+   7. There is a "delay" time when changing between scenes.
+   8. When user changed to quiz scene, the game scene is not at the pause state.
    
    
 ## Limitation
