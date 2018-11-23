@@ -87,8 +87,8 @@ This section describes the core functionalities of VR-Riding and what it must be
  4. To restart the game, click on the restart menu located the at the start of the map .
 
 ## Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v=oi3-u31Q5kc/0.jpg)](https://www.youtube.com/watch?v=oi3-u31Q5kc)  
-*Youtube Link: https://youtu.be/tC1cVljr4Yc*
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v=oi3-u31Q5kc/1.jpg)](https://www.youtube.com/watch?v=oi3-u31Q5kc)  
+*Youtube Link: https://youtu.be/v=oi3-u31Q5kc*
 
 ## Contributors
 
