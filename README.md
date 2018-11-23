@@ -51,9 +51,12 @@ This section describes the core functionalities of VR-Riding and what it must be
 2. Install Unity3D from Unity Hub
 3. Run Unity Hub > Open > Located and select “VRsafeRiding” folder
 4. Click on "Play" button in Unity3D
+5. Hold down Ctl + Alt key and left click to control your movement and rotation in the game  
 
 #### Android
-1. Install VRsafeRiding_1.0.apk file 
+1. Enable “Installation of Non-Official Apps” in your android mobile phone (open Settings > Advanced Settings > Security > Enable 	    “Unknown Sources”)
+2. Transfer VRsafeRiding_1.0.apk file into your phone storage
+3. Install VRsafeRiding_1.0.apk file 
 
 ## Walkthrough
 
@@ -68,8 +71,8 @@ This section describes the core functionalities of VR-Riding and what it must be
   
 ### Player Manual
 1. Select "Player" option
-2. Select "Level" option (1-5)
-3. Select "Vehicle" option
+2. Select a "Level" (1-5)
+3. Select a "Vehicle" 
 4. Select "Play" option
 
 ### Developer Manual
