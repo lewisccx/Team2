@@ -33,9 +33,8 @@ This section describes the core functionalities of VR-Riding and what it must be
 2. Organizational Constraints: Organization is only able to invest in certain VR headsets and not give the full experience. 
 3. External constraints: Environment and knowledge in VR application.   
 4. Product must be user friendly and easy to understand so that users are able to use it intuitively without much guidance.
-5. System shall ensure only authorized users can access edit page. 
-6. System shall ensure that users are able to understand and finish the levels and provide help/hints when needed. 
-7. System shall give encouragement when users answer a question correctly.
+5. System shall ensure that users are able to understand and finish the levels and provide help/hints when needed. 
+6. System shall give encouragement when users answer a question correctly.
 
 ## Setup 
 
