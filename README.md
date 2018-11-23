@@ -61,20 +61,20 @@ This section describes the core functionalities of VR-Riding and what it must be
 
 ## Walkthrough
 
-### Admin Manual
-* Select "SCTF Admin" option
-  * To view player analytics 
-    1. Select "View Analytics"
+### SCTF Admin Manual
+* Select "SCTF Admin" option role
+  * To view player analytics (last played game)
+    1. Select "View Analytics" in the Admin Panel
   * To set game setting 
-    1. Select "Game Setting"
-    2. Select "Game Level" (1 - 5)
-    3. Select desired number of vehicles, pedestrians, traffic lights and environment for the desired level.
+    1. Select "Game Setting" in the Admin Panel
+    2. Select "Game Level" (1 - 5) 
+    3. Select desired number of vehicles, pedestrians, traffic lights (from 0 to 30) and environment for the chosen level.
   
 ### Player Manual
 1. Select "Player" option
-2. Select a "Level" (1-5)
-3. Select a "Vehicle" 
-4. Select "Play" option
+2. Select a "Level" (1-5) you desire (level details will be displayed on the screen)
+3. Select a "Vehicle" you desire
+4. Select "Play" option to play the game
 5. Explore the map and answer questions and practise safe riding with the app. Have fun with the game!
 
 ### Developer Manual
@@ -82,10 +82,10 @@ This section describes the core functionalities of VR-Riding and what it must be
 2. All the backend C# scripts are located in the “VRsafeRiding ” > “Assets” > “Scripts” folder
 
 ### Game Rules
- 1. Answer all 10 quiz questions in the game which are located all over the map
+ 1. Locate and answer the quiz questions in the game around the map
  2. Avoid hitting pedestrians as well as getiing hit by vehicle and pedestrian 
     in the game
- 3. Each question act as a checkpoint(save game progress) in the game 
+ 3. Each question act as a checkpoint (save game progress) in the game 
  4. To restart the game, click on the restart menu located the at the start of the map.
 
 ## Demo
@@ -133,14 +133,14 @@ A:  1. Select "Player" option
     4. Select "Play" option
 ```
 
-Q: I have a new bug to report. Who do I contact?
+Q: I have a new bug or feedback to report. Who do I contact?
 ```
 A: Please contact the development team at 1700208@sit.singaporetech.edu.sg.
 ```
 
-Q: Where can I find a thorough walkthrough of the game?
+Q: Why was this game created?
 ```
-A: You can view the walkthrough video at https://youtu.be/v=oi3-u31Q5kc
+A: This game was created to help allow cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. It is hoped that with the game, users can be educated on the safety aspect of commuting by cycling or with their PMD’s in Singapore. The game achieves this by asking meaningful safe riding-related questions and giving praises or feedback to users when required.
 ```
 
 ## Copyright and Attribution
