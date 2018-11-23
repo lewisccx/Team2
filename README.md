@@ -2,10 +2,10 @@
 VR Safe Riding Project
 
 
-# VR Riding
-VR-riding is a virtual reality (VR) software application that allows cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. VR-riding also allows the users to have a free range of motion within the area and give them the feelings of immersion within the virtual environment, thus providing a pleasant and intuitive experience. Ultimately, the aim of VR-riding is to educate users on the safety aspect of commuting by cycling or with their PMD’s in Singapore.
+# VR-Riding
+VR-Riding is a virtual reality (VR) software application that allows cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. VR-riding also allows the users to have a free range of motion within the area and give them the feelings of immersion within the virtual environment, thus providing a pleasant and intuitive experience. Ultimately, the aim of VR-riding is to educate users on the safety aspect of commuting by cycling or with their PMD’s in Singapore.
 
-## VR Riding Functional Requirements
+## VR-Riding Functional Requirements
 This section describes the core functionalities of VR-Riding and what it must be able to perform and deliver. After gathering requirements from the client, it is agreed that VR-Riding shall be able to:
 1. Display instructions and descriptions in common languages.
 2. Validate users based on authority, namely the Player and SCTF Admin roles.
@@ -26,7 +26,7 @@ This section describes the core functionalities of VR-Riding and what it must be
 	8. Level 5: Players will be placed in a night version of the game and they can travel forward and make left and right turns. 	            There are cars, zebra crossings, pedestrians and traffic lights in the game.
 9. Provide analytical data on the performance of the Player (e.g. Player tend to ride on right side of the road)
 
-## VR Riding Non-Functional Requirements
+## VR-Riding Non-Functional Requirements
 1. Product constraints: Device must be able to support VR and users must know how to operate a VR application. 
 2. Organizational Constraints: Organization is only able to invest in certain VR headsets and not give the full experience. 
 3. External constraints: Environment and knowledge in VR application.   
@@ -142,6 +142,6 @@ Q: Where can I find a thorough walkthrough of the game?
 A: You are able to view a walkthrough video at https://www.youtube.com/watch?v=tC1cVljr4Yc
 ```
 
-## Copyright and attribution
+## Copyright and Attribution
 
 Copyright (c) 2018 2101Team2. Released under the [MIT License](https://github.com/lewisccx/Team2/blob/master/LICENSE.MD).
