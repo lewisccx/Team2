@@ -59,9 +59,9 @@ This section describes the core functionalities of VR-Riding and what it must be
 
 ### Admin Manual
 * Select "SCTF Admin" option
-  1. To view player analytics 
+  * To view player analytics 
     1. select "View Analytics"
-  1. To set game setting 
+  * To set game setting 
     1. select "Game Setting"
     2. select "Game Level" (1 - 5)
     3. select desired number of vehicles,pedestrian, traffic lights and environment
