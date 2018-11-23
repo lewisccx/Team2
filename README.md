@@ -1,9 +1,11 @@
-# 2101Project
+# 2x01Project
 VR Safe Riding Project
 
 
 # VR-Riding
 VR-Riding is a virtual reality (VR) software application that allows cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. VR-riding also allows the users to have a free range of motion within the area and give them the feelings of immersion within the virtual environment, thus providing a pleasant and intuitive experience. Ultimately, the aim of VR-riding is to educate users on the safety aspect of commuting by cycling or with their PMD’s in Singapore.
+
+This file shall describe the information of the VR-Riding application, and guides users to install and use the application.
 
 ## VR-Riding Functional Requirements
 This section describes the core functionalities of VR-Riding and what it must be able to perform and deliver. After gathering requirements from the client, it is agreed that VR-Riding shall be able to:
@@ -63,17 +65,18 @@ This section describes the core functionalities of VR-Riding and what it must be
 ### Admin Manual
 * Select "SCTF Admin" option
   * To view player analytics 
-    1. select "View Analytics"
+    1. Select "View Analytics"
   * To set game setting 
-    1. select "Game Setting"
-    2. select "Game Level" (1 - 5)
-    3. select desired number of vehicles,pedestrian, traffic lights and environment
+    1. Select "Game Setting"
+    2. Select "Game Level" (1 - 5)
+    3. Select desired number of vehicles, pedestrians, traffic lights and environment for the desired level.
   
 ### Player Manual
 1. Select "Player" option
 2. Select a "Level" (1-5)
 3. Select a "Vehicle" 
 4. Select "Play" option
+5. Explore the map and answer questions and practise safe riding with the app. Have fun with the game!
 
 ### Developer Manual
 1. All the elements displayed (included vehicle, buildings, pedestrian and etc) in the game are located in the “VRsafeRiding ” > “Assets” folder
@@ -101,14 +104,8 @@ This section describes the core functionalities of VR-Riding and what it must be
 
 
 ## Errors and bugs
-   1. If player is riding with the phone tilted up, he may ride out of the map
-   2. Player is not facing the quiz question when he changes scene
-   3. Player's screen camera and his bicyle is able tilt up/down 90 degree at the same time
-   4. Vehicles and pedestrian are travelling forward and backward without turning direction
-   5. Pedestrian is able to push player away whenever they hit each other.
-   6. There is a "delay" time when changing between scenes.
-   7. When user changed to quiz scene, the game scene is not at the pause state.
-   
+   1. Player is not facing the quiz question when he changes scene
+   2. Player's screen camera and his bicyle is able tilt up/down 90 degree at the same time
    
 ## Limitations
    1. There are no traffic rules implemented in the game, but you encouraged to adhere to them to score more points!
@@ -116,11 +113,10 @@ This section describes the core functionalities of VR-Riding and what it must be
    3. Player's Phone has to be in left screen orientation 
 
 ## Feedback
-   1. Implement a score system to allow player knows his statistics
-   2. Implement a Health Point system 
+   1. To implement a Health Point system 
       * Player lose a portion of his health whenever he hitted by vehicle and eventually lose the game if his health runs out
-   3. Implement Play-Time Limit system
-      * If player unable to finish the game with time limit give, he loses the game
+   2. To implement Play-Time Limit system
+      * If player unable to finish the game with time limit given, he loses the game
 
 ## Frequently Asked Questions (FAQ) 
 
@@ -132,7 +128,10 @@ A: Devices running Android KitKat and above, and Windows with UnityHub installed
 ```
 Q: How does a player start the game?
 ```
-A: Please refer here: https://github.com/lewisccx/Team2/blob/master/README.md#player-manual
+A:  1. Select "Player" option
+    2. Select a "Level" (1-5)
+    3. Select a "Vehicle"
+    4. Select "Play" option
 ```
 
 Q: I have a new bug to report. Who do I contact?
@@ -142,9 +141,9 @@ A: Please contact the development team at 1700208@sit.singaporetech.edu.sg.
 
 Q: Where can I find a thorough walkthrough of the game?
 ```
-A: You are able to view a walkthrough video at https://www.youtube.com/watch?v=tC1cVljr4Yc
+A: You can view the walkthrough video at https://youtu.be/v=oi3-u31Q5kc
 ```
 
 ## Copyright and Attribution
 
-Copyright (c) 2018 2101Team2. Released under the [MIT License](https://github.com/lewisccx/Team2/blob/master/LICENSE.MD).
+Copyright (c) 2018 2x01Team2. Released under the [MIT License](https://github.com/lewisccx/Team2/blob/master/LICENSE.MD).
