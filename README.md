@@ -76,7 +76,7 @@ This section describes the core functionalities of VR-Riding and what it must be
 3. Select a "Vehicle" you desire
 4. Select "Play" option to play the game
 5. Explore the map by:
-
+\n
 5a. For Android: press on the screen to move forward and face the direction to control the direction you want to turn.
 5b. For UnityHub on Windows: Hold down Ctl + Alt key and left click to control your movement and rotation in the game.  
 6. Answer questions and practise safe riding with the game. Have fun with the game!
