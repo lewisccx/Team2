@@ -86,7 +86,7 @@ This section describes the core functionalities of VR-Riding and what it must be
  2. Avoid hitting pedestrians as well as getiing hit by vehicle and pedestrian 
     in the game
  3. Each question act as a checkpoint(save game progress) in the game 
- 4. To restart the game, click on the restart menu located the at the start of the map .
+ 4. To restart the game, click on the restart menu located the at the start of the map.
 
 ## Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oi3-u31Q5kc/maxresdefault.jpg)](https://www.youtube.com/watch?v=oi3-u31Q5kc)  
