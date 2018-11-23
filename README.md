@@ -140,7 +140,9 @@ A: Please contact the development team at 1700208@sit.singaporetech.edu.sg.
 
 Q: Why was this game created?
 ```
-A: This game was created to help allow cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. It is hoped that with the game, users can be educated on the safety aspect of commuting by cycling or with their PMD’s in Singapore. The game achieves this by asking meaningful safe riding-related questions and giving praises or feedback to users when required.
+A: This game was created to help allow cyclists and personal mobility device (PMD) users to practice safe riding on Singapore roads, walkways and shared paths. 
+It is hoped that with the game, users can be educated on the safety aspect of commuting by cycling or with their PMD’s in Singapore. 
+The game achieves this by asking meaningful safe riding-related questions and giving praises or feedback to users when required.
 ```
 
 ## Copyright and Attribution
