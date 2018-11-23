@@ -75,7 +75,8 @@ This section describes the core functionalities of VR-Riding and what it must be
 2. Select a "Level" (1-5) you desire (level details will be displayed on the screen)
 3. Select a "Vehicle" you desire
 4. Select "Play" option to play the game
-5. Explore the map and answer questions and practise safe riding with the app. Have fun with the game!
+5. Explore the map by pressing on the screen to move forward and face the direction you would like to turn in the game. Answer questions and practise safe riding with the game. 
+Have fun with the game!
 
 ### Developer Manual
 1. All the elements displayed (included vehicle, buildings, pedestrian and etc) in the game are located in the “VRsafeRiding ” > “Assets” folder
